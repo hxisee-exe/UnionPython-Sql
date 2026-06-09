@@ -19,9 +19,9 @@ Sistema de gestión de ventas desarrollado con Python, SQL Server y Streamlit.
 3. Ejecutar: `python -m streamlit run app.py`
 
 ## 👨‍💻 Autor
-**Tu Nombre** — Desarrollador Python
+Frandy Yanuel — Desarrollador Python
 
 ## 📸 Vista previa
-![Panel Principal](image.png)
+![Panel Principal](C:\Users\WinterOS\Pictures\Screenshots\Captura de pantalla 2026-06-08 195653.png)
 ![Clientes](C:\Users\WinterOS\Pictures\Screenshots\Captura de pantalla 2026-06-08 200021.png)
 ![Clientes](C:\Users\WinterOS\Pictures\Screenshots\Captura de pantalla 2026-06-08 200037.png)
