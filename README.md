@@ -22,6 +22,6 @@ Sistema de gestión de ventas desarrollado con Python, SQL Server y Streamlit.
 Frandy Yanuel — Desarrollador Python
 
 ## 📸 Vista previa
-![Panel Principal](C:\Users\WinterOS\Pictures\Screenshots\Captura de pantalla 2026-06-08 195653.png)
-![Clientes](C:\Users\WinterOS\Pictures\Screenshots\Captura de pantalla 2026-06-08 200021.png)
-![Clientes](C:\Users\WinterOS\Pictures\Screenshots\Captura de pantalla 2026-06-08 200037.png)
+![Inicio](screenshots/panel.png)
+![Clientes 1](screenshots/Clientes1.png)
+![Clientes 2](screenshots/Clientes2.png)
